@@ -1,2 +1,1 @@
-# openedx-simple-theme
-An simple Open edX theme
+# An simple Open edX theme
